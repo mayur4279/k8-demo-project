@@ -41,7 +41,6 @@ metadata:
 spec:
   selector:
     app: mongodb
-  type: LoadBalancer  
   ports:
     - protocol: TCP
       port: 27017
