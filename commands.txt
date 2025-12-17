@@ -1,0 +1,2 @@
+kubectl port-forward svc/mongo-express-service 8081:8081 --address 0.0.0.0
+
